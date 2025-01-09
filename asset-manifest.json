@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/godaddy/static/css/main.60ca0598.css",
+    "main.js": "/godaddy/static/js/main.a201e9aa.js",
+    "static/js/453.0a36081d.chunk.js": "/godaddy/static/js/453.0a36081d.chunk.js",
+    "static/media/Header-img(1).webp": "/godaddy/static/media/Header-img(1).7d92726fca0af72e1b49.webp",
+    "static/media/Header-img(2).webp": "/godaddy/static/media/Header-img(2).8e88cbb5908261c4b2b0.webp",
+    "static/media/logo.png": "/godaddy/static/media/logo.7726874ee127693c0458.png",
+    "static/media/Premium(720).webp": "/godaddy/static/media/Premium(720).21bae59194f08e58037b.webp",
+    "index.html": "/godaddy/index.html",
+    "main.60ca0598.css.map": "/godaddy/static/css/main.60ca0598.css.map",
+    "main.a201e9aa.js.map": "/godaddy/static/js/main.a201e9aa.js.map",
+    "453.0a36081d.chunk.js.map": "/godaddy/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60ca0598.css",
+    "static/js/main.a201e9aa.js"
+  ]
+}
